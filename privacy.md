@@ -4,9 +4,9 @@ title: Sync — Privacy Policy
 
 # Sync — Privacy Policy
 
-Last updated: 30 October 2026
+Last updated: 30 October 2026 (site address updated)
 
-Sync is a video collaboration workspace at https://cutroom-video-workspace.candidmoose512.chatgpt.site/ operated by Abdullah (contact: weakenedits@gmail.com). This policy explains what Sync collects and how it is used.
+Sync is a video collaboration workspace at https://sync.weakenedits.workers.dev/ operated by Abdullah (contact: weakenedits@gmail.com). This policy explains what Sync collects and how it is used.
 
 ## Information we collect
 
@@ -26,7 +26,7 @@ Data received through Google sign-in is used only to create and sign in to your 
 
 ## Service providers
 
-Supabase (authentication), Cloudflare (application hosting, database and video storage) and Google (Gmail, for sending account emails). They process data on our behalf to run the service.
+Supabase (authentication and video storage), Cloudflare (application hosting and database) and Google (Gmail, for sending account emails). They process data on our behalf to run the service.
 
 ## Sharing within Sync
 
